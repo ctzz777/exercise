@@ -84,6 +84,4 @@ class NewVisitorTest(LiveServerTestCase):
             [row.text for row in rows]
         )
         """
-        
-        self.fail('Finish the test!')
 
